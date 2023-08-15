@@ -19,3 +19,7 @@ To try out this example, follow these steps:
 5. The `dragover` event is used to prevent the default behavior of the browser, which is to disallow dropping.
 6. When the dragged item leaves a box, the `drag-over` class is removed.
 7. When the item is dropped into a box, the `drag-over` class is removed, and the item is appended to the box's content. The `hide` class is removed, making the item visible again.
+
+## Acknowledgment
+
+These concepts I learned from [javascripttutorial.net](https://www.javascripttutorial.net/web-apis/javascript-drag-and-drop/)
